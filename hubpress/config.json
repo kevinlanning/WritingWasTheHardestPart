@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "kevinlanning",
-    "repositoryName": "WritingIsTheHardestPart",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"kevinlanning","repositoryName":"WritingIsTheHardestPart","branch":"gh-pages"},"site":{"title":"WritingIsTheHardestPart","description":"Thoughts on personality psychology, data science, and social justice. \n \nThe title is not just an homage to Tom Petty, but a comment that - for me - study design and data analysis are easy and frequently compelling, but writing and communicating are not so much. ","url":"https://kevinlanning.github.io/WritingIsTheHardestPart"},"socialnetwork":{},"theme":{"name":"Casper","url":"//kevinlanning.github.io/WritingIsTheHardestPart/themes/Casper"}}
