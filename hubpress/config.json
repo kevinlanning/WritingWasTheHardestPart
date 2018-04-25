@@ -1,1 +1,33 @@
-{"meta":{"username":"kevinlanning","repositoryName":"WritingIsTheHardestPart","branch":"gh-pages"},"site":{"title":"","description":"","url":"https://kevinlanning.github.io/WritingIsTheHardestPart"},"socialnetwork":{},"theme":{"name":"Casper","url":"//kevinlanning.github.io/WritingIsTheHardestPart/themes/Casper"}}
+{
+  "meta": {
+    "username": "kevinlanning",
+    "repositoryName": "WritingIsTheHardestPart",
+    "branch": "gh-pages"
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "url": "https://kevinlanning.github.io/WritingIsTheHardestPart"
+  },
+  "socialnetwork": {},
+  "theme": {
+    "name": "casper",
+    "url": "//kevinlanning.github.io/WritingIsTheHardestPart/themes/Casper"
+  },
+  "urls": {
+    "site": "https://kevinlanning.github.io/WritingIsTheHardestPart",
+    "hubpress": "https://kevinlanning.github.io/WritingIsTheHardestPart",
+    "theme": "//kevinlanning.github.io/WritingIsTheHardestPart/themes/casper",
+    "images": "https://kevinlanning.github.io/WritingIsTheHardestPart/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
+  }
+}
